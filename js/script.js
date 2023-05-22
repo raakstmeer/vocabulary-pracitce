@@ -31,3 +31,9 @@ button.addEventListener('click',()=>{
   answer.style.display = 'initial';
   answer.style.paddingTop = '5rem';
 })
+
+const generateNewword = document.getElementById('generateNewword');
+generateNewword.addEventListener('click',()=>{
+  generateWord();
+  answer.style.display = 'none';
+})
