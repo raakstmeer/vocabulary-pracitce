@@ -117,6 +117,419 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: "short_sentance",
+    word: "লাইনে দাঁড়াও",
+    meaning: {
+      english: "Stand in queue!",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "যাক বাঁচা গেলো",
+    meaning: {
+      english: "Good Riddance!"
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "কি বাজে বকছো",
+    meaning: {
+      english: "How absurd",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "কি অদভুদ",
+    meaning: {
+      english: "How strange!",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "এক্ষুনি কর",
+    meaning: {
+      english: "Do it at once",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "ফোন লাইনে থাকুন",
+    meaning: {
+      english: "Hold on",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "দুঃখজনক",
+    meaning: {
+      english: "What a pity",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "চিন্তা করে কথা বল",
+    meaning: {
+      english: "Talk sense",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "তুমি যা বল",
+    meaning: {
+      english: "What you say",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "তুমি যা কর",
+    meaning: {
+      english: "What you do",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "তুমি যা চাও",
+    meaning: {
+      english: "What you want",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "তোমার কথা রাখ",
+    meaning: {
+      english: "Keep your word",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "আমার কেনো জানি মনে হয়",
+    meaning: {
+      english: "I tend to think so",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "I tend to think so, she like me",
+        bangla: "আমার কেনো জানি মনে হয়, সে আমাকে পছন্দ করে",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "চল কোথায় বসি",
+    meaning: {
+      english: "Let's sit somewhere",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "অল্প অল্প করে",
+    meaning: {
+      english: "little by little",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "আর কিভাবে",
+    meaning: {
+      english: "How else",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "শান্ত হও",
+    meaning: {
+      english: "Calm down",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "আর কোনো কিন্তু নয়",
+    meaning: {
+      english: "No more buts",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "বাজে কথা",
+    meaning: {
+      english: "Bullshit",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "কি শান্ত",
+    meaning: {
+      english: "How peachfull",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "বলতে গেলে কিছুই না",
+    meaning: {
+      english: "Next to nothing",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "একটু ও না",
+    meaning: {
+      english: "Not a bit",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "মোটামোটি",
+    meaning: {
+      english: "So So",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
