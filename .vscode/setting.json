@@ -1,0 +1,34 @@
+{
+  "editor.fontSize": 21,
+  "editor.fontFamily": "Operator Mono light",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": true,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  "workbench.colorTheme": "Learn with Sumit - Vintage",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.accessibilitySupport": "off",   
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.linkedEditing": false,
+  "explorer.confirmDelete": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.fontFamily": "Operator Mono light",
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "window.zoomLevel": 1,
+  "vsicons.dontShowNewVersionMessage": false,
+  "workbench.sideBar.location": "right"
+}

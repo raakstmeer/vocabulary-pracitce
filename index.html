@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vocabulary Practice Online</title>
+  <link rel="stylesheet" href="./dist/output.css" />
+  <link rel="stylesheet" href="./dist/style.css" />
+</head>
+
+<body class="bg-gray-500">
+  <section>
+    <div class="container p-2 md:w-5/6 sm:w-full mx-auto space-y-3">
+      <div class="bg-[#27187E] text-white text-7xl p-3 rounded-md font-outfit relative">
+        Word: <span class="word">Lorem epsam</span>
+        <div id="btnShow" class="flex justify-center items-center font-outfit w-20 h-20 bg-[#ff6347] text-white p-3 rounded-full text-7xl rotate-90 absolute cursor-pointer">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><path d="M19 12v5.586L6.414 5H12V3H3v9h2V6.414L17.586 19H12v2h9v-9h-2z"/></svg>
+      </div>
+      </div>
+      <div id="answerWrap" class="relative top-20 hidden">
+        <div class="meaning space-y-3">
+          <div class="english bg-[#758BFD] text-white text-6xl p-3 rounded-md font-outfit">
+            loremepsam
+          </div>
+          <div class="bangla bg-[#5C574F] text-white text-6xl p-3 rounded-md font-bangla">
+            লরেম এপ্সাম
+          </div>
+        </div>
+        <div class="example space-y-3 bg-[#FF8600] text-white text-4xl p-3 rounded-md">
+          <div class="dirExm font-outfit">lorem</div>
+          <hr />
+          <div class="dirExmBangle">লরেম</div>
+          <hr />
+          <div class="onlExam font-outfit">lorem</div>
+          <hr />
+          <div class="onlExamBangla">লরেম</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script src="./js/vocabularyApi.js"></script>
+  <script src="./js/script.js"></script>
+</body>
+
+</html>
