@@ -530,6 +530,60 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: "short_sentance",
+    word: "আমরা কি যথাসময় এসেছি?",
+    meaning: {
+      english: "Are we on time?",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "আমরা কি যথাসময় এসেছি",
+    meaning: {
+      english: "We are on time man",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "কোনটা আমার",
+    meaning: {
+      english: "Which one is mine?",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
