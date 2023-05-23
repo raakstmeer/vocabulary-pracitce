@@ -4,6 +4,8 @@
  * communication
  * food
  * short_sentance
+ * spices
+ * fruits
  */
 
 const vocabularyApi = [
@@ -697,6 +699,565 @@ const vocabularyApi = [
     word: "আর একটু থাক না",
     meaning: {
       english: "Stay a little longer",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "Spices",
+    meaning: {
+      english: "",
+      bangla: "মসলা",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "এলাচ",
+    meaning: {
+      english: "Cardamom",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "দারুচিনি",
+    meaning: {
+      english: "Cinnamon",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "লবঙ্গ",
+    meaning: {
+      english: "Cloves",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "ধনিয়া/ধনে",
+    meaning: {
+      english: "Coriander",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "জিরা",
+    meaning: {
+      english: "Cumin seed",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "কাজু বাদাম",
+    meaning: {
+      english: "Cashew Nut",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "বিট লবন",
+    meaning: {
+      english: "Black Salt",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "গোল মরিচ",
+    meaning: {
+      english: "Black Pepper",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "কালো জিরা",
+    meaning: {
+      english: "Nigella Seed",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "জাফরান",
+    meaning: {
+      english: "Saffron",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "পেঁয়াজ পাতা",
+    meaning: {
+      english: "Scallion",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "সরিষা",
+    meaning: {
+      english: "Mustard Seed",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "তেজ পাতা",
+    meaning: {
+      english: "Bay Leaf",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "তিল",
+    meaning: {
+      english: "Sesami Seed",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "হলুদ",
+    meaning: {
+      english: "Turmeric",
+      bangla: "",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "পুদিনা পাতা",
+    meaning: {
+      english: "Mint",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "spices",
+    word: "আমলকি",
+    meaning: {
+      english: "Gooseberry",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  
+  {
+    catagory: "fruits",
+    word: "গাব",
+    meaning: {
+      english: "Sharon Fruit",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "আতাফল",
+    meaning: {
+      english: "Cherimoya",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "আতাফল",
+    meaning: {
+      english: "Cherimoya",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "চালতা",
+    meaning: {
+      english: "Elephant Apple",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "কামরাঙ্গা",
+    meaning: {
+      english: "Carambola/Starfruit",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "বেল",
+    meaning: {
+      english: "Wood apple",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "কদবেল",
+    meaning: {
+      english: "Sour wood apple",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "বাঙ্গি",
+    meaning: {
+      english: "Mask-melon",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "তরমুজ",
+    meaning: {
+      english: "Water-melon",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "আমড়া",
+    meaning: {
+      english: "Golden apple",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "জাম্বুরা",
+    meaning: {
+      english: "Pummelo",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "জামরুল",
+    meaning: {
+      english: "Star apple",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "লুকলুকি",
+    meaning: {
+      english: "Coffee Plum",
       bangla: "--",
     },
     example: [
