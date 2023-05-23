@@ -37,3 +37,7 @@ generateNewword.addEventListener('click',()=>{
   generateWord();
   answer.style.display = 'none';
 })
+
+window.addEventListener('contextmenu',function(e){
+  e.preventDefault()
+})
