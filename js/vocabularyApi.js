@@ -1271,6 +1271,132 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: "fruits",
+    word: "করমচা",
+    meaning: {
+      english: "Bengal Currant",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "ডাব",
+    meaning: {
+      english: "Green/Baby Coconut",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "পেঁপে",
+    meaning: {
+      english: "Papaya",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "লটকন",
+    meaning: {
+      english: "Burmese Grape",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "পানি ফল",
+    meaning: {
+      english: "Water chestnut",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "ডুমুর",
+    meaning: {
+      english: "Fig",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "fruits",
+    word: "জাম ফল",
+    meaning: {
+      english: "Berry",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },  
 ];
 
 // make vocabulary schema
