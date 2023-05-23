@@ -584,6 +584,132 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: "short_sentance",
+    word: "কত বোকা!",
+    meaning: {
+      english: "How stupid!",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "বেশি দূরে যাবা না",
+    meaning: {
+      english: "Don't go far",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "এই আসছি",
+    meaning: {
+      english: "Just Coming",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "বোকা হয়ো না",
+    meaning: {
+      english: "Don't be silly",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "নিজেকে শুধরে নাও",
+    meaning: {
+      english: "Mend your self",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "আমার ঠান্ডা লেগেছে",
+    meaning: {
+      english: "I have a cold",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "আর একটু থাক না",
+    meaning: {
+      english: "Stay a little longer",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
