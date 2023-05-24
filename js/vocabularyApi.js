@@ -6,6 +6,7 @@
  * short_sentance
  * spices
  * fruits
+ * relative
  */
 
 const vocabularyApi = [
@@ -1396,7 +1397,115 @@ const vocabularyApi = [
         bangla: "--",
       },
     ],
-  },  
+  },
+  {
+    catagory: "relative",
+    word: "ভাতিজা / ভাগ্নে",
+    meaning: {
+      english: "Nephew",
+      bangla: "",
+    },
+    example: [
+      {
+        dirExm: "",
+        bangla: "",
+      },
+      {
+        onlExm: "",
+        bangla: "",
+      },
+    ],
+  },
+  {
+    catagory: "relative",
+    word: "ভাতিজী / ভাগ্নী",
+    meaning: {
+      english: "Niece",
+      bangla: "",
+    },
+    example: [
+      {
+        dirExm: "",
+        bangla: "",
+      },
+      {
+        onlExm: "",
+        bangla: "",
+      },
+    ],
+  },
+  {
+    catagory: "relative",
+    word: "মামি",
+    meaning: {
+      english: "Maternal-aunt",
+      bangla: "",
+    },
+    example: [
+      {
+        dirExm: "",
+        bangla: "",
+      },
+      {
+        onlExm: "",
+        bangla: "",
+      },
+    ],
+  },
+  {
+    catagory: "relative",
+    word: "সৎ বোন",
+    meaning: {
+      english: "Foster-daughter",
+      bangla: "",
+    },
+    example: [
+      {
+        dirExm: "",
+        bangla: "",
+      },
+      {
+        onlExm: "",
+        bangla: "",
+      },
+    ],
+  },
+  {
+    catagory: "relative",
+    word: "স্বজন",
+    meaning: {
+      english: "Fellow",
+      bangla: "",
+    },
+    example: [
+      {
+        dirExm: "",
+        bangla: "",
+      },
+      {
+        onlExm: "",
+        bangla: "",
+      },
+    ],
+  },
+  {
+    catagory: "relative",
+    word: "আত্বীয়স্বজন",
+    meaning: {
+      english: "Relative",
+      bangla: "",
+    },
+    example: [
+      {
+        dirExm: "",
+        bangla: "",
+      },
+      {
+        onlExm: "",
+        bangla: "",
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
