@@ -1403,16 +1403,16 @@ const vocabularyApi = [
     word: "ভাতিজা / ভাগ্নে",
     meaning: {
       english: "Nephew",
-      bangla: "",
+      bangla: "--",
     },
     example: [
       {
-        dirExm: "",
-        bangla: "",
+        dirExm: "--",
+        bangla: "--",
       },
       {
-        onlExm: "",
-        bangla: "",
+        onlExm: "--",
+        bangla: "--",
       },
     ],
   },
@@ -1421,16 +1421,16 @@ const vocabularyApi = [
     word: "ভাতিজী / ভাগ্নী",
     meaning: {
       english: "Niece",
-      bangla: "",
+      bangla: "--",
     },
     example: [
       {
-        dirExm: "",
-        bangla: "",
+        dirExm: "--",
+        bangla: "--",
       },
       {
-        onlExm: "",
-        bangla: "",
+        onlExm: "--",
+        bangla: "--",
       },
     ],
   },
@@ -1439,16 +1439,16 @@ const vocabularyApi = [
     word: "মামি",
     meaning: {
       english: "Maternal-aunt",
-      bangla: "",
+      bangla: "--",
     },
     example: [
       {
-        dirExm: "",
-        bangla: "",
+        dirExm: "--",
+        bangla: "--",
       },
       {
-        onlExm: "",
-        bangla: "",
+        onlExm: "--",
+        bangla: "--",
       },
     ],
   },
@@ -1457,16 +1457,16 @@ const vocabularyApi = [
     word: "সৎ বোন",
     meaning: {
       english: "Foster-daughter",
-      bangla: "",
+      bangla: "--",
     },
     example: [
       {
-        dirExm: "",
-        bangla: "",
+        dirExm: "--",
+        bangla: "--",
       },
       {
-        onlExm: "",
-        bangla: "",
+        onlExm: "--",
+        bangla: "--",
       },
     ],
   },
@@ -1475,16 +1475,16 @@ const vocabularyApi = [
     word: "স্বজন",
     meaning: {
       english: "Fellow",
-      bangla: "",
+      bangla: "--",
     },
     example: [
       {
-        dirExm: "",
-        bangla: "",
+        dirExm: "--",
+        bangla: "--",
       },
       {
-        onlExm: "",
-        bangla: "",
+        onlExm: "--",
+        bangla: "--",
       },
     ],
   },
@@ -1493,16 +1493,124 @@ const vocabularyApi = [
     word: "আত্বীয়স্বজন",
     meaning: {
       english: "Relative",
-      bangla: "",
+      bangla: "--",
     },
     example: [
       {
-        dirExm: "",
-        bangla: "",
+        dirExm: "--",
+        bangla: "--",
       },
       {
-        onlExm: "",
-        bangla: "",
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "স্নেহ",
+    meaning: {
+      english: "Affection",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "আনন্দময়",
+    meaning: {
+      english: "Delightfull",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "ভাবনাহীন",
+    meaning: {
+      english: "Carefree",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "অনুভূতি",
+    meaning: {
+      english: "Sentiment",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "একাকি",
+    meaning: {
+      english: "Llonely",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "অনুকূল",
+    meaning: {
+      english: "Favorable",
+      bangla: "--",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
       },
     ],
   },
@@ -1511,20 +1619,20 @@ const vocabularyApi = [
 // make vocabulary schema
 
 // {
-//   catagory: "",
+//   catagory: "communication",
 //   word: "",
 //   meaning: {
 //     english: "",
-//     bangla: "",
+//     bangla: "--",
 //   },
 //   example: [
 //     {
-//       dirExm: "",
-//       bangla: "",
+//       dirExm: "--",
+//       bangla: "--",
 //     },
 //     {
-//       onlExm: "",
-//       bangla: "",
+//       onlExm: "--",
+//       bangla: "--",
 //     },
 //   ],
 // },
