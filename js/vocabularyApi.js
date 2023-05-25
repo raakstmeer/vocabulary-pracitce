@@ -1582,7 +1582,7 @@ const vocabularyApi = [
     catagory: "communication",
     word: "একাকি",
     meaning: {
-      english: "Llonely",
+      english: "Lonely",
       bangla: "--",
     },
     example: [
