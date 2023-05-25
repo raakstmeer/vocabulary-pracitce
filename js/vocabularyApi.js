@@ -1168,7 +1168,7 @@ const vocabularyApi = [
     catagory: "fruits",
     word: "বাঙ্গি",
     meaning: {
-      english: "Mask-melon",
+      english: "Muskmelon",
       bangla: "--",
     },
     example: [
