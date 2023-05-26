@@ -142,7 +142,8 @@ const vocabularyApi = [
     catagory: "short_sentance",
     word: "যাক বাঁচা গেলো",
     meaning: {
-      english: "Good Riddance!"
+      english: "Good Riddance!",
+      bangla: "--",
     },
     example: [
       {
