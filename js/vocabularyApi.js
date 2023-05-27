@@ -989,7 +989,7 @@ const vocabularyApi = [
     word: "হলুদ",
     meaning: {
       english: "Turmeric",
-      bangla: "",
+      bangla: "--",
     },
     example: [
       {
