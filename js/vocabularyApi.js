@@ -1615,6 +1615,24 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: "communication",
+    word: "Schema",
+    meaning: {
+      english: "--",
+      bangla: "পরিকল্পনা",
+    },
+    example: [
+      {
+        dirExm: "I have a schema for my existing project.",
+        bangla: "আমার বর্তমান প্রজেক্ট এর জন্য একটি পরিকল্পনা আছে।",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
