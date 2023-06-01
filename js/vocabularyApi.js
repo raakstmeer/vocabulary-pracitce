@@ -1651,6 +1651,96 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: "communication",
+    word: "Naive / Naively",
+    meaning: {
+      english: "--",
+      bangla: "সহজভাবে/নির্বোধ/নিস্পাপ",
+    },
+    example: [
+      {
+        dirExm: "Naively, you might define your schema as shown below:",
+        bangla: "সহজভাবে, আপনি নীচের দেখানো হিসাবে আপনার স্কিমা সংজ্ঞায়িত করতে পারেন:",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "Assumes",
+    meaning: {
+      english: "--",
+      bangla: "অনুমান করে",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "projections",
+    meaning: {
+      english: "--",
+      bangla: "অনুমান",
+    },
+    example: [
+      {
+        dirExm: "boolean, specifies default projections for queries",
+        bangla: "বুলিয়ান, প্রশ্নের জন্য ডিফল্ট অনুমান নির্দিষ্ট করে",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "immutable",
+    meaning: {
+      english: "--",
+      bangla: "অপরিবর্তনীয়",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "prevents",
+    meaning: {
+      english: "--",
+      bangla: "বাধা দেয়",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
