@@ -1633,12 +1633,30 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: "short_sentance",
+    word: "hang on a minute",
+    meaning: {
+      english: "--",
+      bangla: "একটু দাঁড়াও",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
 
 // {
-//   catagory: "communication",
+//   catagory: "short_sentance",
 //   word: "",
 //   meaning: {
 //     english: "",
