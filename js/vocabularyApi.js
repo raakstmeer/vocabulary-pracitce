@@ -1813,7 +1813,43 @@ const vocabularyApi = [
       },
     ],
   },
-
+  {
+    catagory: "communication",
+    word: "arbitrary ",
+    meaning: {
+      english: "--",
+      bangla: "ইচ্ছামত, অবাধ"
+    },
+    example: [
+      {
+        dirExm: "you can store arbitrary key/value pairs",
+        bangla: "আপনি নির্বিচারে কী/মান জোড়া সংরক্ষণ করতে পারেন ",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "short_sentance",
+    word: "rather than",
+    meaning: {
+      english: "--",
+      bangla: "বরং, অধিকতর",
+    },
+    example: [
+      {
+        dirExm: "We recommend using ObjectIds rather than UUIDs for unique document ids in Mongoose",
+        bangla: "আমরা মঙ্গুজে অনন্য নথি আইডির জন্য UUID-এর পরিবর্তে বরং, অধিকতর ObjectIds ব্যবহার করার পরামর্শ দিই",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  
 ];
 
 // make vocabulary schema
