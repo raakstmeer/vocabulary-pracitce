@@ -1115,7 +1115,7 @@ const vocabularyApi = [
     catagory: "fruits",
     word: "কামরাঙ্গা",
     meaning: {
-      english: "Carambola/Starfruit",
+      english: "Carambola / Starfruit",
       bangla: "--",
     },
     example: [
@@ -1741,6 +1741,79 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: "communication",
+    word: "sparse",
+    meaning: {
+      english: "--",
+      bangla: "পাতলা/ঘন বা ঘনসন্নিবিষ্ট নয় এমন",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "cast",
+    meaning: {
+      english: "--",
+      bangla: "নিক্ষেপ, প্রবণতা, নিক্ষিপ্ত বস্তু, ঢালাই, নিক্ষিপ্ত, প্রক্ষিপ্ত, নিক্ষেপ করা, ছাঁচে ঢালা, গণনা করা , ছোঁড়া, বাতিল করা, নাতকের পাত্রপাত্রীর দল"
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "Buffer",
+    meaning: {
+      english: "--",
+      bangla: "নির্বোধ ব্যক্তি, অপদার্থ লোক"
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "implicitly",
+    meaning: {
+      english: "--",
+      bangla: "অন্তর্নিহিতভাবে, পরোক্ষভাবে"
+    },
+    example: [
+      {
+        dirExm: "Arrays are special because they implicitly have a default value of [] (empty array)",
+        bangla: "অ্যারেগুলি বিশেষ কারণ তাদের অন্তর্নিহিতভাবে [] (খালি অ্যারে) এর একটি ডিফল্ট মান রয়েছে।",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+
 ];
 
 // make vocabulary schema
