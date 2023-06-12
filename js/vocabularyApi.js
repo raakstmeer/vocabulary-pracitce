@@ -1849,13 +1849,30 @@ const vocabularyApi = [
       },
     ],
   },
-  
+  {
+    catagory: "communication",
+    word: "Heaven",
+    meaning: {
+      english: "--",
+      bangla: "স্বর্গ",
+    },
+    example: [
+      {
+        dirExm: "Not be wrong to say a piece of heaven in the world",
+        bangla: "পৃথিবীতে এক টুকরো স্বর্গ বললে ভুল হবে না",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
 
 // {
-//   catagory: "short_sentance",
+//   catagory: "communication",
 //   word: "",
 //   meaning: {
 //     english: "",
