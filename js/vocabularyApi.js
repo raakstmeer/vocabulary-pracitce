@@ -1867,6 +1867,42 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: "communication",
+    word: "Retrieving",
+    meaning: {
+      english: "--",
+      bangla: "পুনরূদ্ধার করা, ত্রাণ করা, ক্ষতিপূরণ করা",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "Caste",
+    meaning: {
+      english: "--",
+      bangla: "	বর্ণ, জাতি, জাত",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
