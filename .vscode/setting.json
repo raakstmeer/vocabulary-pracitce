@@ -1,9 +1,9 @@
 {
-  "editor.fontSize": 21,
-  "editor.fontFamily": "Operator Mono light",
+  "editor.fontSize": 20,
+  "editor.fontFamily": "Fira Code, Operator Mono",
   "editor.fontLigatures": true,
-  "editor.tabSize": 2,
-  "editor.minimap.enabled": true,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
@@ -14,21 +14,33 @@
       }
     ]
   },
+
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "expand",
-  "workbench.colorTheme": "Learn with Sumit - Vintage",
-  "workbench.iconTheme": "vscode-icons",
-  "editor.accessibilitySupport": "off",   
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
   "[javascript]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
   },
-  "editor.linkedEditing": false,
-  "explorer.confirmDelete": false,
-  "liveServer.settings.donotShowInfoMsg": true,
-  "terminal.integrated.fontFamily": "Operator Mono light",
-  "explorer.confirmDragAndDrop": false,
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "[javascriptreact]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true,
+    "source.organizeImports": true
+  },
+  "eslint.alwaysShowStatus": true,
+
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.fontFamily": "Fira Code, Operator Mono",
+  "workbench.colorTheme": "Learn with Sumit - Professional",
+  "workbench.iconTheme": "vscode-icons",
   "window.zoomLevel": 1,
-  "vsicons.dontShowNewVersionMessage": false,
+  "git.ignoreMissingGitWarning": true,
   "workbench.sideBar.location": "right"
 }

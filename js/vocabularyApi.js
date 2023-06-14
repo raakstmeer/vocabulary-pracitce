@@ -1903,6 +1903,24 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: "communication",
+    word: "Whenever",
+    meaning: {
+      english: "--",
+      bangla: "যখনই, যে কোন সময়ে",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
