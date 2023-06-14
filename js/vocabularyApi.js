@@ -1921,6 +1921,133 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: "communication",
+    word: "Subtly ",
+    meaning: {
+      english: "--",
+      bangla: "চতুরভাবে, সূক্ষ্মভাবে",
+    },
+    example: [
+      {
+        dirExm: "In Mongoose, nested paths are subtly different from subdocuments",
+        bangla: "মঙ্গুসে, নেস্টেড পাথগুলি সাবডকুমেন্ট থেকে সূক্ষ্মভাবে আলাদ ",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "instances",
+    meaning: {
+      english: "--",
+      bangla: "উদাহরণ",
+    },
+    example: [
+      {
+        dirExm: "First, instances of",
+        bangla: "প্রথম, উদাহরণ",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "even if",
+    meaning: {
+      english: "--",
+      bangla: "যদিও",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "even",
+    meaning: {
+      english: "--",
+      bangla: "এমন কি",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "Recursively",
+    meaning: {
+      english: "--",
+      bangla: "পুনরাবৃত্তিমূলকভাবে",
+    },
+    example: [
+      {
+        dirExm: "Mongoose applies defaults recursively",
+        bangla: "মংগুস ডিফল্টগুলি পুনরাবৃত্তিমূলকভাবে প্রয়োগ করে৷",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "Each",
+    meaning: {
+      english: "--",
+      bangla: "প্রতিটি",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "convenience",
+    meaning: {
+      english: "--",
+      bangla: "সুবিধা, সুখস্বাচ্ছঁদ্য",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
+
 ];
 
 // make vocabulary schema
