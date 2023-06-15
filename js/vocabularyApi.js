@@ -2075,6 +2075,26 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: 'communication',
+    word: 'settle',
+    meaning: {
+      english: '--',
+      bangla: 'নিষ্পত্তি, স্থায়ীভাবে বসবাস করা',
+    },
+    example: [
+      {
+        dirExm:
+          'If your validator function returns a promise (like an async function), mongoose will wait for that promise to settle',
+        bangla:
+          'যদি আপনার যাচাইকারী ফাংশন একটি প্রতিশ্রুতি প্রদান করে (যেমন একটি async ফাংশন), mongoose সেই প্রতিশ্রুতি নিষ্পত্তির জন্য অপেক্ষা করবে।',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
