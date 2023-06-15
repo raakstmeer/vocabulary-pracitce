@@ -2095,6 +2095,100 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: 'communication',
+    word: 'coerce',
+    meaning: {
+      english: '--',
+      bangla: 'জবরদস্তি, দমন করা, বাধ্য করা',
+    },
+    example: [
+      {
+        dirExm:
+          'Before running validators, Mongoose attempts to coerce values to the correct type',
+        bangla:
+          'ভ্যালিডেটর চালানোর আগে, মঙ্গুস মানগুলিকে সঠিক প্রকারে জোর করার চেষ্টা করে',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
+  {
+    catagory: 'communication',
+    word: 'demonstrates',
+    meaning: {
+      english: '--',
+      bangla: 'প্রদর্শন করে',
+    },
+    example: [
+      {
+        dirExm: '--',
+        bangla: '--',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
+  {
+    catagory: 'communication',
+    word: 'caveats',
+    meaning: {
+      english: '--',
+      bangla: 'সতর্কতা',
+    },
+    example: [
+      {
+        dirExm:
+          'update validators are off by default because they have several caveats.',
+        bangla:
+          'আপডেট ভ্যালিডেটরগুলি ডিফল্টরূপে বন্ধ থাকে কারণ তাদের বেশ কয়েকটি সতর্কতা রয়েছে।',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
+  {
+    catagory: 'communication',
+    word: 'neat',
+    meaning: {
+      english: '--',
+      bangla: 'ঝরঝরে, পরিচ্ছন্ন',
+    },
+    example: [
+      {
+        dirExm: 'Because queries have a neat .get() function',
+        bangla: 'কারণ প্রশ্নগুলির একটি ঝরঝরে .get() ফাংশন রয়েছে ',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
+  {
+    catagory: "communication",
+    word: "aggregate",
+    meaning: {
+      english: "--",
+      bangla: "সমষ্টি, সমূহ, একত্র কর ",
+    },
+    example: [
+      {
+        dirExm: "--",
+        bangla: "--",
+      },
+      {
+        onlExm: "--",
+        bangla: "--",
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
