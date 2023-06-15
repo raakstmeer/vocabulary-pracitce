@@ -2172,20 +2172,20 @@ const vocabularyApi = [
     ],
   },
   {
-    catagory: "communication",
-    word: "aggregate",
+    catagory: 'communication',
+    word: 'aggregate',
     meaning: {
-      english: "--",
-      bangla: "সমষ্টি, সমূহ, একত্র কর ",
+      english: '--',
+      bangla: 'সমষ্টি, সমূহ, একত্র কর ',
     },
     example: [
       {
-        dirExm: "--",
-        bangla: "--",
+        dirExm: '--',
+        bangla: '--',
       },
       {
-        onlExm: "--",
-        bangla: "--",
+        onlExm: '--',
+        bangla: '--',
       },
     ],
   },
