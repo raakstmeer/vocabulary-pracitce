@@ -2189,6 +2189,24 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: 'communication',
+    word: 'Chunk',
+    meaning: {
+      english: '--',
+      bangla: 'খণ্ড, বেশ খানিকটা ',
+    },
+    example: [
+      {
+        dirExm: 'In this Chunk',
+        bangla: 'এই খন্ডে',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
