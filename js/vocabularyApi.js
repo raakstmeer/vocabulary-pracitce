@@ -2207,6 +2207,24 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: 'communication',
+    word: 'Persistent',
+    meaning: {
+      english: '--',
+      bangla: 'ক্রমাগত, অবিরাম',
+    },
+    example: [
+      {
+        dirExm: '',
+        bangla: '',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
