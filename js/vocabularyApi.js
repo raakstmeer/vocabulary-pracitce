@@ -2219,10 +2219,37 @@ const vocabularyApi = [
         dirExm: '',
         bangla: '',
       },
+      { onlExm: '--', bangla: '--' },
+    ],
+  },
+  {
+    catagory: 'communication',
+    word: 'Successively',
+    meaning: {
+      english: '--',
+      bangla: 'ধারাবাহিকভাবে',
+    },
+    example: [
       {
-        onlExm: '--',
-        bangla: '--',
+        dirExm: '',
+        bangla: '',
       },
+      { onlExm: '--', bangla: '--' },
+    ],
+  },
+  {
+    catagory: 'communication',
+    word: 'Severe',
+    meaning: {
+      english: '--',
+      bangla: 'গুরুতর',
+    },
+    example: [
+      {
+        dirExm: '',
+        bangla: '',
+      },
+      { onlExm: '--', bangla: '--' },
     ],
   },
 ];
