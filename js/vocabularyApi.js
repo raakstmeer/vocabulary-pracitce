@@ -2252,6 +2252,21 @@ const vocabularyApi = [
       { onlExm: '--', bangla: '--' },
     ],
   },
+  {
+    catagory: 'communication',
+    word: 'Forks',
+    meaning: {
+      english: '--',
+      bangla: 'কাঁটা',
+    },
+    example: [
+      {
+        dirExm: '',
+        bangla: '',
+      },
+      { onlExm: '--', bangla: '--' },
+    ],
+  },
 ];
 
 // make vocabulary schema
