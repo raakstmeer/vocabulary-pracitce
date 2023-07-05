@@ -2267,6 +2267,21 @@ const vocabularyApi = [
       { onlExm: '--', bangla: '--' },
     ],
   },
+  {
+    catagory: 'communication',
+    word: 'Puffed rice',
+    meaning: {
+      english: '--',
+      bangla: 'মুড়ি',
+    },
+    example: [
+      {
+        dirExm: '',
+        bangla: '',
+      },
+      { onlExm: '--', bangla: '--' },
+    ],
+  },
 ];
 
 // make vocabulary schema
