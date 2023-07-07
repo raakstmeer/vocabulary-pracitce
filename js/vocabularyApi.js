@@ -2282,12 +2282,102 @@ const vocabularyApi = [
       { onlExm: '--', bangla: '--' },
     ],
   },
+  {
+    catagory: 'short_sentance',
+    word: 'সোজা হয়ে বসো',
+    meaning: {
+      english: 'Sit upright',
+      bangla: '--',
+    },
+    example: [
+      {
+        dirExm: '--',
+        bangla: '--',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
+  {
+    catagory: 'short_sentance',
+    word: 'সাথে এসো',
+    meaning: {
+      english: 'Come Alone',
+      bangla: '--',
+    },
+    example: [
+      {
+        dirExm: '--',
+        bangla: '--',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
+  {
+    catagory: 'short_sentance',
+    word: 'এটা পরিষ্কার কর',
+    meaning: {
+      english: 'Clean it',
+      bangla: '--',
+    },
+    example: [
+      {
+        dirExm: '--',
+        bangla: '--',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
+  {
+    catagory: 'short_sentance',
+    word: 'এটা সাফ কর',
+    meaning: {
+      english: 'Clear it',
+      bangla: '--',
+    },
+    example: [
+      {
+        dirExm: '--',
+        bangla: '--',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
+  {
+    catagory: 'short_sentance',
+    word: 'উপরে আসো',
+    meaning: {
+      english: 'Come Upstairs',
+      bangla: '--',
+    },
+    example: [
+      {
+        dirExm: '--',
+        bangla: '--',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
 
 // {
-//   catagory: "communication",
+//   catagory: "short_sentance",
 //   word: "",
 //   meaning: {
 //     english: "",
