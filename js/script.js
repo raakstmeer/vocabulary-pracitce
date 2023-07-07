@@ -21,23 +21,22 @@ function generateWord() {
   onlExamBangla.innerHTML = singleWord.example[1].bangla;
 }
 
-generateWord()
-
+generateWord();
 
 const button = document.getElementById('btnShow');
 const answer = document.getElementById('answerWrap');
 
-button.addEventListener('click',()=>{
+button.addEventListener('click', () => {
   answer.style.display = 'initial';
   answer.style.paddingTop = '5rem';
-})
+});
 
 const generateNewword = document.getElementById('generateNewword');
-generateNewword.addEventListener('click',()=>{
+generateNewword.addEventListener('click', () => {
   generateWord();
   answer.style.display = 'none';
-})
+});
 
-window.addEventListener('contextmenu',function(e){
-  e.preventDefault()
-})
+window.addEventListener('contextmenu', function (e) {
+  e.preventDefault();
+});
