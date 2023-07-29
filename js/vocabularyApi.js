@@ -2372,6 +2372,24 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: 'communication',
+    word: 'Versatile',
+    meaning: {
+      english: 'বহুমুখী, বহু বিষয়ে পণ্ডিত',
+      bangla: '--',
+    },
+    example: [
+      {
+        dirExm: '--',
+        bangla: '--',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
