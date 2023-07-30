@@ -2390,6 +2390,24 @@ const vocabularyApi = [
       },
     ],
   },
+  {
+    catagory: 'short_sentance',
+    word: 'আমি আমার আঙ্গুল ফোটাচ্ছি',
+    meaning: {
+      english: "I'm cracking my finger",
+      bangla: '--',
+    },
+    example: [
+      {
+        dirExm: '--',
+        bangla: '--',
+      },
+      {
+        onlExm: '--',
+        bangla: '--',
+      },
+    ],
+  },
 ];
 
 // make vocabulary schema
