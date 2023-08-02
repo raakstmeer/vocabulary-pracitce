@@ -1,6 +1,6 @@
 {
   "editor.fontSize": 20,
-  "editor.fontFamily": "Fira Code, Operator Mono",
+  "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
   "editor.wordWrap": "on",
   "editor.minimap.enabled": false,
